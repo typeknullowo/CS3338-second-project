@@ -1,0 +1,44 @@
+commit d691d30be1137c5f1e528b79a9350fb1573638ac
+Merge: 897ea96 494a92f
+Author: typeknullowo <typeknull@gmail.com>
+Date:   Thu Feb 5 18:43:10 2026 -0800
+
+    fixed merge conflict
+
+commit 494a92f143b527838460350c1ca161abc4fa28ae
+Author: typeknullowo <typeknull@gmail.com>
+Date:   Thu Feb 5 18:37:48 2026 -0800
+
+    added favorite media
+
+commit 897ea9667c942fae9d218c949886e2ddfcad06a5
+Author: typeknullowo <typeknull@gmail.com>
+Date:   Thu Feb 5 18:35:27 2026 -0800
+
+    added my favorite food
+
+commit ba4f79ab490e0c7e39b38eb767918d402a34fe3e
+Author: typeknullowo <typeknull@gmail.com>
+Date:   Thu Feb 5 18:23:49 2026 -0800
+
+    readme file added
+
+commit 199af9d889d12fbef0f624978875fb78f0cff455
+Author: typeknullowo <typeknull@gmail.com>
+Date:   Thu Feb 5 18:23:49 2026 -0800
+
+    readme file added
+
+commit 521de69cc0ad69ef4de1fd59084f6de21dd5b041
+Author: typeknullowo <typeknull@gmail.com>
+Date:   Thu Feb 5 18:01:14 2026 -0800
+
+    Update index.html
+    
+    added name and hobbies
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
